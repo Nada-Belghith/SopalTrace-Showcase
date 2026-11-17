@@ -7,7 +7,7 @@
 
 <a href="video/SopalTrace-demo.mp4"><img src="images/apercu.gif" width="480" alt="Aperçu de SopalTrace"></a>
 
-🎬 **[Voir la démo vidéo complète]([video/SopalTrace-demo.mp4](https://github.com/user-attachments/assets/05e52182-fc32-4752-8636-84c9d1d6351d)**
+🎬 **([Voir la démo vidéo complète](https://github.com/user-attachments/assets/05e52182-fc32-4752-8636-84c9d1d6351d)**
 
 ---
 
