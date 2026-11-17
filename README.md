@@ -4,10 +4,6 @@
 > Application web de traçabilité qualité, conçue, développée et livrée pour la mise en production.
 > Le code source appartient à l'entreprise et reste privé : ce dépôt présente le projet en images et en vidéo.
 
-<img src="images/apercu.gif" width="320">
-
-🎬 **[Voir la démo vidéo complète sur mon portfolio](LIEN_DE_TON_PORTFOLIO)**
-
 ---
 
 ## Le besoin
