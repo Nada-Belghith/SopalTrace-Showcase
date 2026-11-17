@@ -74,4 +74,3 @@ navigateur ──► nginx (Vue 3) ──/api──► API .NET 8 ──► SQL 
 
 ---
 
-📫 Pour en savoir plus sur ce projet : [LinkedIn](https://www.linkedin.com/in/nada-belghith-4379ab292)
