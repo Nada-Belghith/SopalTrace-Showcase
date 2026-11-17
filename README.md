@@ -8,7 +8,7 @@
 
 ## Le besoin
 
-Dans une usine de robinets de bouteilles de gaz, les contrôles qualité étaient faits **sur papier et Excel** :
+Dans SOPAL où on fabrique les robinets de bouteilles de gaz, les contrôles qualité étaient faits **sur papier et Excel** :
 fiches remplies à la main, documents dispersés, et beaucoup de temps perdu pour retrouver l'historique d'un ordre de fabrication (OF).
 
 **SopalTrace** remplace ce papier par une application web unique : chaque contrôle, chaque lot et chaque expédition est enregistré,
