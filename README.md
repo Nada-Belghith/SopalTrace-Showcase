@@ -4,6 +4,10 @@
 > Application web de traçabilité qualité, conçue, développée et livrée pour la mise en production.
 > Le code source appartient à l'entreprise et reste privé : ce dépôt présente le projet en images et en vidéo.
 
+<a href="video/SopalTrace-demo.mp4"><img src="images/apercu.gif" width="480" alt="Aperçu de SopalTrace"></a>
+
+🎬 **[Voir la démo vidéo complète](video/SopalTrace-demo.mp4)**
+
 ---
 
 ## Le besoin
